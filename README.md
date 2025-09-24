@@ -19,5 +19,5 @@ It includes database schema, sample data, and queries to handle books, customers
 
 
 ## 👨‍💻 Author
-Akib Irfan
+Satish Dhawale
 
